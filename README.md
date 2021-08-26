@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Studying "Deep Learning", "Computer Vision", "GAN"
+I'm Studying ***Deep Learning, Computer Vision, GAN***
 
 <h3> Tech Stack :technologist: </h3>
 <a href=""><img src="https://img.icons8.com/color/96/000000/python--v1.png"/></a>&nbsp;&nbsp;
