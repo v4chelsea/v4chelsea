@@ -14,9 +14,9 @@ I'm Studying "Deep Learning", "Computer Vision", "GAN"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4chelsea&show_icons=true&theme=dark)
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/daejeong__kim">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/daejeong__kim/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
