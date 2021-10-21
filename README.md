@@ -1,7 +1,7 @@
 <div align=center> 
 <h3> Hi there 👋</h3>
 
-I'm Studying ***Deep Learning, Computer Vision, GAN, GNN***
+I'm Studying ***Deep Learning, Computer Vision, GAN, Data Augmentation***
 
 <h3> Tech Stack :technologist: </h3>
 <a href=""><img src="https://img.icons8.com/color/96/000000/python--v1.png"/></a>&nbsp;&nbsp;
